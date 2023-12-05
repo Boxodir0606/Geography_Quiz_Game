@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gameactivity">#80FFFFFF</color>
+    <color name="startctivity">#E6A467</color>
+    <color name="splashscreen">#F8EED9</color>
+    <color name="infoscreen">#E1C9B3</color>
+
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Geography Quiz Game</string>
+
+    <string name="ap_info">"
+ Geography Quiz Game Ilovasi
+* Ushbu dastur Gita dasturchilar akademiyasi talabasi tomonidan yaratilgan. Ushbu ilovadan foydalanib, siz Geografiya faniga oyid bir biridan qiziqarli testlarni ishlashingiz mumkin
+ Framework
+  * Android Studiyasi
+  • Java
+  * Ishlatilgan texnologiyalar:
+  • MVP pattern
+  • Lottie animations
+Ushbu ilovani GITA dasturchilar akademiyasi o'quvchisi Kenjayev Boxodir tomonidan kurs davomida ishlab chiqildi."</string>
+
+
+</resources>
